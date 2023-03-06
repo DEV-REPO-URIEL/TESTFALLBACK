@@ -50,7 +50,7 @@
     "ng2-webstorage": "1.8.0",
     "ngrx-store-freeze": "0.2.0",
     "ngrx-store-localstorage": "0.2.2",
-    "ngx-cookie": "1.0.0",
+    "ngx-cookie": "1.0.1",
     "ngx-infinite-scroll": "0.5.1",
     "ngx-pipes": "1.6.5",
     "ngx-uploader": "3.3.11",
