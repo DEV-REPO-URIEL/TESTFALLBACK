@@ -24,7 +24,7 @@
     "@ngx-translate/http-loader": "2.0.0",
     "@swimlane/ngx-datatable": "9.3.1",
     "amcharts3": "3.21.2",
-    "ammap3": "3.21.6",
+    "ammap3": "3.21.15",
     "angular-in-memory-web-api": "0.4.6",
     "angular-router-loader": "0.6.0",
     "angular-sortablejs": "2.0.6",
