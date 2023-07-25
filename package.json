@@ -23,7 +23,7 @@
     "@ngx-translate/core": "8.0.0",
     "@ngx-translate/http-loader": "2.0.0",
     "@swimlane/ngx-datatable": "9.3.1",
-    "amcharts3": "3.21.2",
+    "amcharts3": "3.21.15",
     "ammap3": "3.21.6",
     "angular-in-memory-web-api": "0.4.6",
     "angular-router-loader": "0.6.0",
