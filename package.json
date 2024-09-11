@@ -60,7 +60,7 @@
     "simple-peer": "8.1.1",
     "sortablejs": "1.6.1",
     "swagger-ui": "3.2.2",
-    "tether": "1.4.0",
+    "tether": "1.4.7",
     "ts-helpers": "1.1.2",
     "webstomp-client": "1.0.8"
   },
